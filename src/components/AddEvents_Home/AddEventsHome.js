@@ -536,7 +536,7 @@ const AddEventsHome = () => {
 
       <section className="media-partner">
         <div className="media-div">
-          <h1 className="media-h1">Media Partner</h1>
+          <h1 className="media-h1">Media Partners</h1>
           <div className="media-pic-div">
             <img
               className="media-pic"
