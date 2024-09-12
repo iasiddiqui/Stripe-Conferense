@@ -552,7 +552,7 @@ const AddEventsHome = () => {
         </div>
       </section>
 
-      {/* ----------Past Conference Data ----------*/}
+      {/* ----------Past Conference Data --------*/}
 
       <section className="past-conference">
         <div className="past-conference-container">
