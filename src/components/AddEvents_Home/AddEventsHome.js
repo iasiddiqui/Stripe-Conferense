@@ -26,7 +26,7 @@ const AddEventsHome = () => {
   };
   return (
     <div className="event-home">
-      <p className="event">
+      <p className="event-p">
         <span className="span1">ONLINE EVENT:</span> You can participate{" "}
         <span className="span1">Virtually</span> from your home or work.
       </p>
